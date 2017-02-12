@@ -44,6 +44,7 @@ arguments (hit tab for auto completion) which override the respective settings:
 - `author`
 - `license`
 - `setUpGit`
+- `setUpTravis`
 
 Example:
 
